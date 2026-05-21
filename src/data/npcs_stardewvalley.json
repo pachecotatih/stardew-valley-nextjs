@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Abigail",
+    "descricao": "Filha de Pierre e Caroline, gosta de aventuras e adora explorar as minas.",
+    "slug": "abigail"
+  },
+  {
+    "nome": "Sebastian",
+    "descricao": "Um programador introvertido que vive no porão da casa da mãe. Gosta de motos e do clima chuvoso.",
+    "slug": "sebastian"
+  },
+  {
+    "nome": "Penny",
+    "descricao": "Professora gentil que vive com a mãe Pam. Ama livros e ensinar as crianças da vila.",
+    "slug": "penny"
+  },
+  {
+    "nome": "Elliott",
+    "descricao": "Um escritor elegante que vive na cabana da praia. Ama arte, literatura e conversa refinada.",
+    "slug": "elliott"
+  },
+  {
+    "nome": "Leah",
+    "descricao": "Uma artista que mora sozinha na floresta. Ama a natureza e esculturas em madeira.",
+    "slug": "leah"
+  },
+  {
+    "nome": "Shane",
+    "descricao": "Trabalhador da JojaMart. Inicialmente rude, mas tem uma história profunda e gosta de galinhas.",
+    "slug": "shane"
+  },
+  {
+    "nome": "Maru",
+    "descricao": "Filha de Demetrius, apaixonada por ciência e tecnologia. Adora construir robôs.",
+    "slug": "maru"
+  },
+  {
+    "nome": "Sam",
+    "descricao": "Jovem animado que ama música e skate. Tem uma banda com Sebastian.",
+    "slug": "sam"
+  },
+  {
+    "nome": "Emily",
+    "descricao": "Espiritual e criativa, trabalha no bar da cidade. Gosta de costura e cristais.",
+    "slug": "emily"
+  },
+  {
+    "nome": "Harvey",
+    "descricao": "O médico da cidade. Reservado e cuidadoso, se preocupa com a saúde de todos.",
+    "slug": "harvey"
+  }
+]
