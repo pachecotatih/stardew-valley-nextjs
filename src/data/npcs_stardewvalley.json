@@ -48,5 +48,30 @@
     "nome": "Harvey",
     "descricao": "O médico da cidade. Reservado e cuidadoso, se preocupa com a saúde de todos.",
     "slug": "harvey"
+  },
+  {
+    "nome": "Alex",
+    "descricao": "Atleta confiante que adora esportes. Trabalha na academia e tem um estilo de vida saudável.",
+    "slug": "alex"
+  },
+  {
+    "nome": "Penelope",
+    "descricao": "Uma artista talentosa que trabalha na galeria de arte. Ama pinturas e desenhos.",
+    "slug": "penelope"
+  },
+  {
+    "nome": "Dwarf",
+    "descricao": "Um anão que vive nas minas. Ele é amigável e tem um conhecimento profundo sobre gemas e minerais.",
+    "slug": "dwarf"
+  },
+  {
+    "nome": "Wizard",
+    "descricao": "Um mago misterioso que vive na torre. Ele tem um conhecimento profundo sobre magia e alquimia.",
+    "slug": "wizard"
+  },
+  {
+    "nome": "Gunther",
+    "descricao": "O curador do museu. Ele é um homem educado e tem um grande interesse por artefatos e fósseis.",
+    "slug": "gunther"
   }
 ]
