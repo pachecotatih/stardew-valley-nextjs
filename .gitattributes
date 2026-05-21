@@ -1,0 +1,21 @@
+# Dependências
+node_modules/** linguist-vendored=true
+
+# Build do Next
+.next/** linguist-generated=true
+out/** linguist-generated=true
+
+# Cobertura
+coverage/** linguist-generated=true
+
+# Sourcemaps
+*.map linguist-generated=true
+
+# Lockfiles
+package-lock.json linguist-generated=true
+yarn.lock linguist-generated=true
+pnpm-lock.yaml linguist-generated=true
+
+# Definir linguagem
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
