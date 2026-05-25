@@ -43,14 +43,18 @@ export default function PageNpc({ params }) {
                             }
 
                         </div>
-                        <div className="">
-                            <h2 className="text-4xl font-bold mb-2 text-orange1">
-                                Aniversário
-                            </h2>
-                            <p className="text-2xl">
-                                {npc.aniversario.dia} de {npc.aniversario.estacao}
-                            </p>
-                        </div>
+                        {
+                            npc.aniversario && npc.aniversario.dia && npc.aniversario.estacao && <div className="">
+                                <h2 className="text-4xl font-bold mb-2 text-orange1">
+                                    Aniversário
+                                </h2>
+                                <p className="text-2xl">
+                                    {npc.aniversario.dia} de {npc.aniversario.estacao}
+                                </p>
+
+
+                            </div>
+                        }
                         <div>
                             <h2 className="text-4xl font-bold mb-2 text-orange1">
                                 Pode casar?
