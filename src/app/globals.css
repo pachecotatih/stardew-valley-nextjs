@@ -4,12 +4,44 @@
   --background: #ffffff;
   --foreground: #171717;
 }
+@font-face {
+  font-family: 'stardewValley';
+  src: url('/fonts/stardew-valley-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'stardewValleyUp';
+  src: url('/fonts/stardew-valley-up.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'stardewValleyIngane';
+  src: url('/fonts/stardew-valley-ingane.ttf') format('truetype');
+}
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+:root {
+    --color-background: var(--background);
+    --color-foreground: var(--foreground);
+    --font-sans: var(--font-geist-sans);
+    --font-mono: var(--font-geist-mono);
+    --font-stardewValley: 'stardewValley';
+    --font-stardewValleyUp: 'stardewValleyUp';
+    --font-stardewValleyIngane: 'stardewValleyIngane';
+    --color-orange: #E1793D;
+    --color-orange1:#CD5151;
+    --color-yellow: #FED688;
+    
+  }
+@theme {
+  --color-orange1: #E1793D;
+  --color-orange2:#CD5151;
+  --color-yellow: #FED688;
+  --font-stardewValleyUp: 'stardewValleyUp';
+  --font-stardewValley: 'stardewValley';
+  --font-stardewValleyIngane: 'stardewValleyIngane';
 }
 
 @media (prefers-color-scheme: dark) {
