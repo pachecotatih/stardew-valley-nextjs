@@ -7,18 +7,18 @@ export default function PageNpc({ params }) {
     const { slug } = useParams();
     const npc = npcs.find((npc) => npc.slug === slug);
     return (
-        <div className="bg-[url(/img/bg.png)] bg-center h-[100vh] bg-no-repeat bg-cover font-stardewValleyIngane ">
+        <div className="bg-[url(/img/bg.png)]  flex flex-col bg-center h-[100vh] bg-no-repeat bg-cover font-stardewValleyIngane ">
             <Link
                 href="/"
                 className="absolute top-2 left-2 text-2xl bg-yellow p-3 text-orange2 font-stardewValleyIngane border-2 border-orange2 w-fit hover:bg-yellow/50"
             >
                 Voltar
             </Link>
-            <main className="h-full flex flex-col justify-center items-center ">
-                <div className="items-center m-2 max-w-[1000px] flex flex-col justify-center border-2 border-orange2 text-center bg-yellow p-3 text-orange2 ">
+            <main className="h-full flex flex-col justify-center items-center m-2">
+                <div className="items-center my-2 max-w-[1000px] w-full flex flex-col justify-center border-2 border-orange2 text-center bg-yellow p-3 text-orange2 ">
                     <h1 className="text-5xl font-bold mb-2">{npc.nome}</h1>
                     <p className="text-2xl">{npc.descricao}</p>
-                    <div className="flex justify-around  w-full mt-4">
+                    <div className="flex justify-around  w-full mt-4 flex-wrap">
                         <div className="mb-2">
                             <h2 className="text-4xl font-bold mb-2 text-orange1">
                                 Familia
@@ -59,7 +59,7 @@ export default function PageNpc({ params }) {
                         </div>
                     </div>
                 </div>
-                <div className="mb-2 bg-yellow p-3 text-orange2 items-center m-2 max-w-[1000px] flex flex-col justify-center border-2 border-orange2">
+                <div className="mb-2 bg-yellow  w-full p-3 text-orange2 items-center m-2 max-w-[1000px] flex flex-col justify-center border-2 border-orange2">
                     <h2 className="text-4xl font-bold mb-2 text-orange1">Presentes Amados</h2>
                     <ul className="gap-4 w-full flex flex-wrap mx-auto max-w-[1000px] justify-center">
                         {npc.presentesAmados.map((presente) => (

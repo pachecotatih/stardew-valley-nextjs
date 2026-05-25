@@ -254,5 +254,266 @@
       "Cogumelo Roxo",
       "Super Pepino"
     ]
+  },
+   {
+    "nome": "Pierre",
+    "descricao": "Dono do Armazém do Pierre e pai de Abigail.",
+    "slug": "pierre",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Primavera",
+      "dia": 26
+    },
+    "familia": ["Caroline", "Abigail"],
+    "presentesAmados": [
+      "Lula Frita",
+      "Prato de Sashimi"
+    ]
+  },
+  {
+    "nome": "Robin",
+    "descricao": "Carpinteira da vila responsável por construções e melhorias da fazenda.",
+    "slug": "robin",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Outono",
+      "dia": 21
+    },
+    "familia": ["Demetrius", "Sebastian", "Maru"],
+    "presentesAmados": [
+      "Espaguete",
+      "Pêssego",
+      "Queijo de Cabra"
+    ]
+  },
+  {
+    "nome": "Demetrius",
+    "descricao": "Cientista da vila e marido de Robin.",
+    "slug": "demetrius",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Verão",
+      "dia": 19
+    },
+    "familia": ["Robin", "Maru", "Sebastian"],
+    "presentesAmados": [
+      "Sorvete",
+      "Morango",
+      "Sopa de Vagens"
+    ]
+  },
+  {
+    "nome": "Caroline",
+    "descricao": "Esposa de Pierre e mãe de Abigail. Gosta de jardinagem e chá.",
+    "slug": "caroline",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Inverno",
+      "dia": 7
+    },
+    "familia": ["Pierre", "Abigail"],
+    "presentesAmados": [
+      "Peixe Taco",
+      "Chá Verde",
+      "Peixe Tropical"
+    ]
+  },
+  {
+    "nome": "Pam",
+    "descricao": "Mãe de Penny e motorista do ônibus da cidade.",
+    "slug": "pam",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Primavera",
+      "dia": 18
+    },
+    "familia": ["Penny"],
+    "presentesAmados": [
+      "Cerveja",
+      "Hidromel",
+      "Pastinaca Vidrada",
+      "Cacto"
+    ]
+  },
+  {
+    "nome": "Haley",
+    "descricao": "Irmã de Emily, apaixonada por fotografia e moda.",
+    "slug": "haley",
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Primavera",
+      "dia": 14
+    },
+    "familia": ["Emily"],
+    "presentesAmados": [
+      "Bolo Rosa",
+      "Girassol",
+      "Salada de Frutas",
+      "Coco"
+    ]
+  },
+  {
+    "nome": "Jodi",
+    "descricao": "Mãe de Sam e Vincent, esposa de Kent.",
+    "slug": "jodi",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Outono",
+      "dia": 11
+    },
+    "familia": ["Kent", "Sam", "Vincent"],
+    "presentesAmados": [
+      "Panquecas",
+      "Bolo de Chocolate",
+      "Berinjela à Parmegiana",
+      "Rabanete Crocante"
+    ]
+  },
+  {
+    "nome": "Kent",
+    "descricao": "Veterano de guerra e pai de Sam e Vincent.",
+    "slug": "kent",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Primavera",
+      "dia": 4
+    },
+    "familia": ["Jodi", "Sam", "Vincent"],
+    "presentesAmados": [
+      "Risoto de Samambaia",
+      "Avelã Torrada"
+    ]
+  },
+  {
+    "nome": "Vincent",
+    "descricao": "Filho mais novo de Jodi e irmão de Sam.",
+    "slug": "vincent",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Primavera",
+      "dia": 10
+    },
+    "familia": ["Jodi", "Kent", "Sam"],
+    "presentesAmados": [
+      "Uvas",
+      "Suco de Oxicoco",
+      "Caracol"
+    ]
+  },
+  {
+    "nome": "Jas",
+    "descricao": "Menina que vive no rancho de Marnie.",
+    "slug": "jas",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Verão",
+      "dia": 4
+    },
+    "familia": ["Marnie", "Shane"],
+    "presentesAmados": [
+      "Bolo Rosa",
+      "Ameixa Cristalizada",
+      "Rosa de Fada"
+    ]
+  },
+  {
+    "nome": "Marnie",
+    "descricao": "Dona do rancho e responsável pelos animais da vila.",
+    "slug": "marnie",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Outono",
+      "dia": 18
+    },
+    "familia": ["Jas", "Shane"],
+    "presentesAmados": [
+      "Diamante",
+      "Bolo Rosa",
+      "Torta de Abóbora",
+      "Fazendeiro Almoço"
+    ]
+  },
+  {
+    "nome": "George",
+    "descricao": "Avô de Alex, vive com Evelyn.",
+    "slug": "george",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Outono",
+      "dia": 24
+    },
+    "familia": ["Evelyn", "Alex"],
+    "presentesAmados": [
+      "Alho-Poró",
+      "Risoto de Samambaia"
+    ]
+  },
+  {
+    "nome": "Evelyn",
+    "descricao": "Avó de Alex, conhecida pelo jardim e pelos biscoitos.",
+    "slug": "evelyn",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Inverno",
+      "dia": 20
+    },
+    "familia": ["George", "Alex"],
+    "presentesAmados": [
+      "Tulipa",
+      "Beterraba",
+      "Rosa de Fada",
+      "Bolo de Chocolate"
+    ]
+  },
+  {
+    "nome": "Linus",
+    "descricao": "Morador solitário que vive em uma tenda nas montanhas.",
+    "slug": "linus",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Inverno",
+      "dia": 3
+    },
+    "familia": [],
+    "presentesAmados": [
+      "Inhame",
+      "Coco",
+      "Prato do Mar",
+      "Cacto"
+    ]
+  },
+  {
+    "nome": "Clint",
+    "descricao": "Ferreiro da vila e responsável pela quebra de geodos.",
+    "slug": "clint",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Inverno",
+      "dia": 26
+    },
+    "familia": [],
+    "presentesAmados": [
+      "Ametista",
+      "Barra de Ouro",
+      "Barra de Irídio",
+      "Jade"
+    ]
+  },
+  {
+    "nome": "Gus",
+    "descricao": "Dono do Salão Fruta Estrelar e cozinheiro da vila.",
+    "slug": "gus",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Verão",
+      "dia": 8
+    },
+    "familia": [],
+    "presentesAmados": [
+      "Peixe Taco",
+      "Laranja",
+      "Escargot",
+      "Diamante"
+    ]
   }
 ]

@@ -4,7 +4,7 @@ import HeaderComponent from "@/shared/components/header";
 
 export default function Home() {
   return (
-    <div className="inset-0 bg-[url(/img/bg.png)] h-[100vh] bg-no-repeat bg-center bg-cover flex flex-col justify-center">
+    <div className="bg-[url(/img/bg.png)] h-[100vh] bg-no-repeat bg-center bg-cover flex flex-col justify-center">
       {<HeaderComponent />}
       <main>
         <ul className="gap-4 w-full flex flex-wrap mx-auto max-w-[1000px] justify-center">
