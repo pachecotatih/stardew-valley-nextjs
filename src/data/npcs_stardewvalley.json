@@ -2,76 +2,257 @@
   {
     "nome": "Abigail",
     "descricao": "Filha de Pierre e Caroline, gosta de aventuras e adora explorar as minas.",
-    "slug": "abigail"
+    "slug": "abigail",
+    "aniversario": {
+      "estacao": "Outono",
+      "dia": 13
+    },
+    "familia": [
+      "Pierre",
+      "Caroline"
+    ],
+    "presentesAmados": [
+      "Ametista",
+      "Torta de Amoras",
+      "Bolo de Chocolate",
+      "Compêndio de Monstros",
+      "Pudim de Banana",
+      "Baiacu",
+      "Abóbora",
+      "Enguia Picante"
+    ],
+    "casavel": true
   },
   {
     "nome": "Sebastian",
     "descricao": "Um programador introvertido que vive no porão da casa da mãe. Gosta de motos e do clima chuvoso.",
-    "slug": "sebastian"
+    "slug": "sebastian",
+    "familia": [
+      "Robin",
+      "Demetrius",
+      "Maru"
+    ],
+    "presentesAmados": [
+      "Lágrima Congelada",
+      "Obsidiana",
+      "Ovo de Sapo",
+      "Ovo Nulo",
+      "Sashimi",
+      "Sopa de Abóbora"
+    ],
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Inverno",
+      "dia": 10
+    }
   },
   {
     "nome": "Penny",
     "descricao": "Professora gentil que vive com a mãe Pam. Ama livros e ensinar as crianças da vila.",
-    "slug": "penny"
+    "slug": "penny",
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Outono",
+      "dia": 2
+    },
+    "familia": [
+      "Pam"
+    ],
+    "presentesAmados": [
+      "Melão",
+      "Diamante",
+      "Esmeralda",
+      "Sopa Tom Kha",
+      "Prato Vermelho"
+    ]
   },
   {
     "nome": "Elliott",
     "descricao": "Um escritor elegante que vive na cabana da praia. Ama arte, literatura e conversa refinada.",
-    "slug": "elliott"
+    "slug": "elliott",
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Outono",
+      "dia": 5
+    },
+    "familia": [],
+    "presentesAmados": [
+      "Lagosta",
+      "Romã",
+      "Pena de Pato",
+      "Tom Kha",
+      "Lula"
+    ]
   },
   {
     "nome": "Leah",
     "descricao": "Uma artista que mora sozinha na floresta. Ama a natureza e esculturas em madeira.",
-    "slug": "leah"
+    "slug": "leah",
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Inverno",
+      "dia": 23
+    },
+    "familia": [],
+    "presentesAmados": [
+      "Salada",
+      "Queijo de Cabra",
+      "Vinho",
+      "Refogado",
+      "Trufa"
+    ]
   },
   {
     "nome": "Shane",
     "descricao": "Trabalhador da JojaMart. Inicialmente rude, mas tem uma história profunda e gosta de galinhas.",
-    "slug": "shane"
+    "slug": "shane",
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Primavera",
+      "dia": 20
+    },
+    "familia": [
+      "Marnie",
+      "Jas"
+    ],
+    "presentesAmados": [
+      "Pizza",
+      "Pimenta",
+      "Pimenta Recheada",
+      "Cerveja"
+    ]
   },
   {
     "nome": "Maru",
     "descricao": "Filha de Demetrius, apaixonada por ciência e tecnologia. Adora construir robôs.",
-    "slug": "maru"
+    "slug": "maru",
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Verão",
+      "dia": 10
+    },
+    "familia": [
+      "Robin",
+      "Demetrius",
+      "Sebastian"
+    ],
+    "presentesAmados": [
+      "Barra de Ouro",
+      "Barra de Irídio",
+      "Couve-flor",
+      "Morango",
+      "Diamante"
+    ]
   },
   {
     "nome": "Sam",
     "descricao": "Jovem animado que ama música e skate. Tem uma banda com Sebastian.",
-    "slug": "sam"
+    "slug": "sam",
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Verão",
+      "dia": 17
+    },
+    "familia": [
+      "Jodi",
+      "Kent",
+      "Vincent"
+    ],
+    "presentesAmados": [
+      "Pizza",
+      "Fruta Cacto",
+      "Olho de Tigre",
+      "Xarope de Bordo"
+    ]
   },
   {
     "nome": "Emily",
     "descricao": "Espiritual e criativa, trabalha no bar da cidade. Gosta de costura e cristais.",
-    "slug": "emily"
+    "slug": "emily",
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Primavera",
+      "dia": 27
+    },
+    "familia": [
+      "Haley"
+    ],
+    "presentesAmados": [
+      "Ametista",
+      "Esmeralda",
+      "Jade",
+      "Rubi",
+      "Topázio",
+      "Lã"
+    ]
   },
   {
     "nome": "Harvey",
     "descricao": "O médico da cidade. Reservado e cuidadoso, se preocupa com a saúde de todos.",
-    "slug": "harvey"
+    "slug": "harvey",
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Inverno",
+      "dia": 14
+    },
+    "familia": [],
+    "presentesAmados": [
+      "Café",
+      "Picles",
+      "Óleo de Trufa",
+      "Vinho",
+      "Super Refeição"
+    ]
   },
   {
     "nome": "Alex",
     "descricao": "Atleta confiante que adora esportes. Trabalha na academia e tem um estilo de vida saudável.",
-    "slug": "alex"
-  },
-  {
-    "nome": "Penelope",
-    "descricao": "Uma artista talentosa que trabalha na galeria de arte. Ama pinturas e desenhos.",
-    "slug": "penelope"
+    "slug": "alex",
+    "casavel": true,
+    "aniversario": {
+      "estacao": "Verão",
+      "dia": 13
+    },
+    "familia": [
+      "George",
+      "Evelyn"
+    ],
+    "presentesAmados": [
+      "Café da Manhã Completo",
+      "Jantar de Salmão"
+    ]
   },
   {
     "nome": "Dwarf",
     "descricao": "Um anão que vive nas minas. Ele é amigável e tem um conhecimento profundo sobre gemas e minerais.",
-    "slug": "dwarf"
+    "slug": "dwarf",
+    "casavel": false,
+    "aniversario": null,
+    "familia": [],
+    "presentesAmados": [
+      "Ametista",
+      "Topázio",
+      "Rubi",
+      "Jade",
+      "Esmeralda",
+      "Omnigeodo"
+    ]
   },
   {
     "nome": "Wizard",
     "descricao": "Um mago misterioso que vive na torre. Ele tem um conhecimento profundo sobre magia e alquimia.",
-    "slug": "wizard"
-  },
-  {
-    "nome": "Gunther",
-    "descricao": "O curador do museu. Ele é um homem educado e tem um grande interesse por artefatos e fósseis.",
-    "slug": "gunther"
+    "slug": "wizard",
+    "casavel": false,
+    "aniversario": {
+      "estacao": "Inverno",
+      "dia": 17
+    },
+    "familia": [],
+    "presentesAmados": [
+      "Essência Solar",
+      "Essência do Vazio",
+      "Cogumelo Roxo",
+      "Super Pepino"
+    ]
   }
 ]
