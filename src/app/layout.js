@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-    title: "Stardew Valley",
+    title: "Stardew Valley NPCs",
     description: "Personagens de Stardew Valley",
 };
 
